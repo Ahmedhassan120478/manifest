@@ -7,7 +7,7 @@ image:
   repository: hassan120478/website
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "e4b1d236"
+  tag: "2f2421be"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
