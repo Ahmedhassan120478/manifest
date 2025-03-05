@@ -4,7 +4,7 @@
 
 replicaCount: 1
 image:
-  repository: nginx
+  repository: hassan120478/website
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "e4b1d236"
